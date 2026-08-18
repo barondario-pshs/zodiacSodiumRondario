@@ -7,7 +7,7 @@ Create a Python program that calculates the Chinese Zodiac sign based on a birth
 - Displays an error message and stops execution if an invalid year is entered.
 - Determines the Chinese Zodiac sign using a 12-year repeating cycle starting from 1900.
 
-## Source Code (`zodiacSectionLN.py`)
+## Source Code (`zodiacSodiumRondario.py`)
 
 ```python
 import sys
@@ -44,4 +44,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-![Output Screenshot](Screenshot%20(68).png)
+[Output Screenshot](Screenshot%20(68).png)
